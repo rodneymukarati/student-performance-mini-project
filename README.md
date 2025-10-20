@@ -38,6 +38,7 @@ WHERE ScienceScore > 60
 GROUP BY Age
 ORDER BY AvgMath DESC;
 
+![Average Math by Age](figures/avg_math_by_age.png)
 
 What I learned
 
